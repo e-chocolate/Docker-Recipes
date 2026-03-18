@@ -1,0 +1,17 @@
+# 环境变量
+.env
+.env.local
+.env.*.local
+!.env.example
+!.env.template
+!.env.sample
+
+# Docker 相关
+*.log
+*.pid
+*.seed
+*.pid.lock
+docker-compose.override.yaml
+docker-compose.local.yaml
+data/
+volumes/

@@ -42,6 +42,7 @@ docker-compose up -d
 
 # Index
 
-| Name                                              | Introduction                           |
-| ------------------------------------------------- | -------------------------------------- |
-| [EasyNode](https://github.com/chaos-zhu/easynode) | a multifunctional web terminal console |
+| Name                                              | Introduction                                | Last Updated                   |
+| ------------------------------------------------- | ------------------------------------------- | ------------------------------ |
+| [EasyNode](https://github.com/chaos-zhu/easynode) | a multifunctional web terminal console      | 2026-03-19                     |
+| [Dify](https://dify.ai/)                          | an open-source LLM app development platform | [2026-03-31](./Dify/README.md) |

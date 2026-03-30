@@ -15,3 +15,7 @@ docker-compose.override.yaml
 docker-compose.local.yaml
 data/
 volumes/
+
+# 测试相关
+**/test/*
+**/test*

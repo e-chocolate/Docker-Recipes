@@ -46,3 +46,4 @@ docker-compose up -d
 | ------------------------------------------------- | -------------------------------- | --------------------------------- |
 | [EasyNode](https://github.com/chaos-zhu/easynode) | 一个多功能Linux服务器WEB终端面板 | 2026-03-19                        |
 | [Dify](https://dify.ai/)                          | 一个开源的 LLM 应用开发平台      | [2026-03-31](./Dify/README_CN.md) |
+| [n8n](https://n8n.io/)                            | 开源工作流自动化与 AI Agent 编排平台 | [2026-09-19](./N8N/README_CN.md)  |
